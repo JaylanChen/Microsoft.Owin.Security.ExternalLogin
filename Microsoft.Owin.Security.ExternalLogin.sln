@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microsoft.Owin.Security.QQ", "Microsoft.Owin.Security.QQ\Microsoft.Owin.Security.QQ.csproj", "{E5329EBA-7E03-4B66-9656-2B0FDE0518D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microsoft.Owin.Security.WeChat", "Microsoft.Owin.Security.WeChat\Microsoft.Owin.Security.WeChat.csproj", "{23083F41-0704-4A8B-B65C-73D77FB66394}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microsoft.Owin.Security.Weibo", "Microsoft.Owin.Security.Weibo\Microsoft.Owin.Security.Weibo.csproj", "{53546A27-7B98-41C1-95E8-6319AB29F461}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5329EBA-7E03-4B66-9656-2B0FDE0518D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5329EBA-7E03-4B66-9656-2B0FDE0518D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5329EBA-7E03-4B66-9656-2B0FDE0518D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5329EBA-7E03-4B66-9656-2B0FDE0518D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23083F41-0704-4A8B-B65C-73D77FB66394}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23083F41-0704-4A8B-B65C-73D77FB66394}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23083F41-0704-4A8B-B65C-73D77FB66394}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23083F41-0704-4A8B-B65C-73D77FB66394}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53546A27-7B98-41C1-95E8-6319AB29F461}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53546A27-7B98-41C1-95E8-6319AB29F461}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53546A27-7B98-41C1-95E8-6319AB29F461}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53546A27-7B98-41C1-95E8-6319AB29F461}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
